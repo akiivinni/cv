@@ -1,0 +1,135 @@
+.main
+{
+    display:flex;
+    background-color: aliceblue;
+}
+.main>div
+{
+    background-color: bisque;
+    width:100vw;
+    height:100vh;
+    margin:20px;
+   
+
+}
+.p
+{
+    
+    
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+    box-sizing: inherit;
+    
+}
+img
+{
+    position: relative;
+    top:0px;
+   
+}
+.content
+{
+    position:absolute;
+    top:20px;
+    bottom:0px;
+    font-weight: bold;
+    font-size: 20px;
+    
+
+}
+.lu ,li
+{
+    list-style-type: none;
+    margin:2px;
+    padding:2px;
+    font-size: 20px;
+    border-bottom: 100PX;
+}
+.container
+{
+   
+    background-color: antiquewhite;
+    width:100%;
+
+}
+.skills
+{
+    padding: 0.01em 16px;
+    text-align: center;
+    border-radius: 35%;
+
+}
+.html
+{
+    width:90%;
+    background-color: blueviolet;
+    border-radius: 35%;
+    
+}
+.illu
+{
+    width:85%;
+    background-color: brown;
+    border-radius: 35%;
+    
+}
+.adobe
+{
+    width:92%;
+    background-color: blue;
+    border-radius: 35%;
+}
+.photo
+{
+    width:78%;
+    background-color: cadetblue;
+    border-radius: 35%;
+}
+.eng
+{
+    width:92%;
+    background-color: chocolate;
+    border-radius: 35%;
+}
+.telugu
+{
+    width:89%;
+    background-color: darkcyan;
+    border-radius: 35%;
+}
+.hindi
+{
+    width:76%;
+    background-color: azure;
+    border-radius: 35%;
+}
+#ghf
+{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:gray;
+    font-weight: bold;
+   
+}
+#p
+{
+    background-color: blueviolet;
+    padding:5px;
+}
+#s
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-align: left;
+  
+}
+p
+{
+    font-size: 20px;
+}
+footer
+{
+    font-size: 20px;
+    margin: 20px;
+}
